@@ -1,11 +1,12 @@
 
-# 🚀 Smart AI Powered Employee Salary Prediction
+# Smart Salary Prediction Using ML and Gemini-Based Explanations
+
 
 A web application built with Streamlit that predicts employee salaries based on job parameters and provides intelligent, AI-generated career insights using Google's Gemini API.
 
 ---
 
-## 📌 Features
+##  Features
 
 - **🔮 Salary Prediction**: Predict salaries based on input features like rating, location, skills, and more.
 - **🎛️ Interactive UI**: Clean, user-friendly Streamlit interface.
